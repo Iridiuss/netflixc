@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(18, 12, 12);
+}
+.card-body{
+    background-color: rgb(23, 21, 21);
+    color: antiquewhite;
+}
+.card{
+    transition: all 1s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.dropdown-menu,.dropdown-item{
+    background-color: rgb(18, 12, 12);
+    color: antiquewhite;
+}
